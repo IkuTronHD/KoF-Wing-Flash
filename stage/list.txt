@@ -1,0 +1,14 @@
+﻿&场景=09,KOFXII1,stage0,stage1,stage2,stage3,stage4,Igniz2,lake,plane2,kof12,clock,roof,greatwall,plane,bridge,night1,chunjie,roofFW,samurai,basara,gg,window,moon,ship,rail,orochi,Igniz,Hakurei Shrine,Clock Tower&
+&Kyo=chunjie&
+&Kula=kof12&
+&K=clock&
+&Iori=night1&
+&Ryu=roof&
+&Moriya=bridge&
+&Orochi=orochi&
+&Mai=basara&
+&Chunli=chunjie&
+&Igniz=Igniz&
+&Haohmaru=samurai&
+&Reimu=Hakurei Shrine&
+&Sakuya=Clock Tower&
