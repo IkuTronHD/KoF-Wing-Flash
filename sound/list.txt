@@ -12,12 +12,7 @@
 &Chunli=ChunLi.MP3&
 &Terry=Terry.mp3&
 &Haohmaru=Haohmaru.mp3&
-
 &Rugal=Rugal.mp3&
 &Igniz=Igniz.mp3&
 &Orochi=Orochi.mp3&
-
 &Reimu=Reimu.mp3&
-&Marisa=Marisa.mp3&
-&Sakuya=Sakuya.mp3&
-&Kamui=Kamui.mp3&
