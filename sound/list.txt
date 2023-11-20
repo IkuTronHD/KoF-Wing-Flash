@@ -1,6 +1,4 @@
-
-&musicNum=18&
-
+&musicNum=15&
 &Kyo=Kyo.mp3&
 &Iori=Iori.mp3&
 &Iori3=Iori3.mp3&
